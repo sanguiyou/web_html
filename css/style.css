@@ -25,15 +25,15 @@
 	/text-align: left;/
 }
 .header div{
-	padding-top: 17px;	
+	padding-top: 17px;
 	height: 67px;
 	text-align: center;
 	float: left;
 	margin: 0 28px;
 	font-size: 21px;
 }
-.header div a{	
-	font-size: 21px;	
+.header div a{
+	font-size: 21px;
 	text-decoration: none;
 	color: #9b9b9b;
 
@@ -46,27 +46,27 @@
 /**
 	帮助页面
 **/
-.help_saler_and_buyer{	
-	width: 100%;	
+.help_saler_and_buyer{
+	width: 100%;
 }
 .help_saler_and_buyer div{
 	float: left;
 	width: 49.5%;
-	text-align: center;	
+	text-align: center;
 }
-.help_saler_and_buyer div:first-child{	
-	
+.help_saler_and_buyer div:first-child{
+
 	border-right: 1px solid #5da2f3;
 }
-.help_saler_and_buyer div h1{	
-	margin-top: 53px;	
+.help_saler_and_buyer div h1{
+	margin-top: 53px;
 }
 .help_saler_and_buyer div h1 span{
 	display: inline-block;
 	width: 189px;
 	height: 34px;
 	padding: 4px, 42px 6px 51px ;
-	font-size: 24px;		
+	font-size: 24px;
 	background-color: #2a83ff;
 	color: white;
 }
@@ -92,19 +92,19 @@
 	background-color: gray;
 	height: 444px;
 }
-.help_plat_charge h1{	  	
-  	font-size: 28px;  	
+.help_plat_charge h1{
+  	font-size: 28px;
   	font-weight: normal;
   	text-align: center;
 }
 .help_plat_charge h4{
 	font-size: 13px;
-	text-align: center;	
+	text-align: center;
 	font-weight: normal;
 	color: #aeaeae;
 }
 .help_plat_charge .first{
-	margin-top: 33px;	
+	margin-top: 33px;
 }
 .help_plat_charge p{
 	margin-left: 152px;
@@ -122,7 +122,7 @@
 }
 .help_register p span{
 	display: inline-block;
-	width: 82.6px;  	
+	width: 82.6px;
   	border: solid 1px #ffffff;
   	position: relative;
   	top:-10px;
@@ -135,19 +135,19 @@
 	width: 50%;
 	text-align: center;
 }
-.help_register .help_register_content div:first-child span{	
+.help_register .help_register_content div:first-child span{
   	display: inline-block;
   	width: 185px;
   	height: 42px;
   	background-image: url('../img/become_buyer.png');
-  	background-repeat: no-repeat;	
+  	background-repeat: no-repeat;
 }
-.help_register .help_register_content div:last-child span{	
+.help_register .help_register_content div:last-child span{
   	display: inline-block;
   	width: 182px;
   	height: 41px;
   	background-image: url('../img/become_saler.png');
-  	background-repeat: no-repeat;	
+  	background-repeat: no-repeat;
 }
 .help_register .help_register_content div span sub{
 	position: relative;
@@ -177,7 +177,7 @@
 }
 .about_advantage h4 span,.about_partner h4 span,.about_contact_us h4 span{
 	display: inline-block;
-	width: 82.6px;  	
+	width: 82.6px;
   	border: solid 1px #4a4a4a;
   	position: relative;
   	top:-5px;
@@ -187,7 +187,7 @@
 }
 .about_advantage .about_advantage_intro div{
 	float: left;
-	width: 23%;		
+	width: 23%;
 	text-align: center;
 	padding: 10px;
 }
@@ -199,7 +199,7 @@
   	background-repeat: no-repeat;
 }
 .about_advantage .about_advantage_intro sub{
-	font-size: 32px;  
+	font-size: 32px;
   	color: #ffffff;
   	position: relative;
   	top:55px;
@@ -256,16 +256,16 @@
 .about_contact_us h4{
 	color: #ffffff;
 }
-.about_contact_us h4 span{	
-  	border: solid 1px #ffffff;  	
+.about_contact_us h4 span{
+  	border: solid 1px #ffffff;
 }
 .about_contact_us p{
-	margin-left: 379px;	
+	margin-left: 379px;
 }
 .about_contact_us p span,.about_contact_address p span{
 	position: relative;
-	font-size: 18px;	
-	top:-12px;	
+	font-size: 18px;
+	top:-12px;
 }
 
 .about_contact_address{
@@ -274,8 +274,8 @@
 	height: 117px;
 	color: #ffffff;
 	opacity:0.7;
-	filter:alpha(opacity=70);  
-    -moz-opacity:0.7;  
+	filter:alpha(opacity=70);
+    -moz-opacity:0.7;
     -khtml-opacity: 0.7;
 }
 .about_contact_address p{
@@ -360,8 +360,7 @@
 .message-center-content {
     width: 872px;
     height: 732px;
-    margin-left: 152px;
-    margin-top: 23px;
+	margin: 23px 0 25px 152px;
     overflow: auto;
 }
 
