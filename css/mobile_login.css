@@ -1,0 +1,92 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 12px;
+  font-family: STHeitiSC-Light;
+}
+body {
+  background-color: #F0F0F0;
+}
+.ml-logo {
+  text-align: center;
+  margin: 10% 0;
+}
+.ml-logo img {
+  width: 191px;
+  height: 191px;
+  border: solid 1px #4a90e2;
+}
+.ml-logo-name {
+  width: auto;
+  height: auto;
+  background-color: #ffffff;
+  padding: 3%;
+  text-align: center;
+}
+.ml-logo-name span,
+.ml-logo-name input {
+  font-size: 1.2em;
+  color: #4a4a4a;
+}
+.ml-logo-name span {
+  width: 3%;
+}
+.ml-logo-name span:nth-of-type(2) {
+  visibility: hidden;
+}
+.ml-logo-passwd {
+  width: auto;
+  height: auto;
+  background-color: #ffffff;
+  padding: 3%;
+  text-align: center;
+  margin-top: 1px;
+}
+.ml-logo-passwd span,
+.ml-logo-passwd input {
+  font-size: 1.2em;
+  color: #4a4a4a;
+}
+.ml-logo-passwd span {
+  width: 3%;
+}
+.ml-logo-passwd span:nth-of-type(2) {
+  visibility: hidden;
+}
+.ml-logo-passwd a {
+  font-family: STHeitiSC-Light;
+  font-size: 1.2em;
+  color: #9b9b9b;
+  text-decoration: none;
+}
+.ml-logo-button {
+  text-align: center;
+  margin: 10% auto;
+  width: 70%;
+  height: none;
+  background-color: none;
+}
+.ml-logo-button span {
+  display: inline-block;
+  font-family: STHeitiSC-Light;
+  font-size: 2em;
+  color: #ffffff;
+  width: 100%;
+  height: 2em;
+  background-color: #4a90e2;
+  border-radius: 4px;
+  line-height: 2em;
+}
+.ml-logo-button P {
+  margin-top: 3%;
+  margin-left: 0;
+  font-family: STHeitiSC-Light;
+  font-size: 1em;
+  color: #4a90e2;
+  text-align: right;
+}
+.ml-logo-button P a {
+  font-family: STHeitiSC-Light;
+  font-size: 1em;
+  color: #4a90e2;
+}
